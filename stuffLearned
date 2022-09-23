@@ -6,3 +6,4 @@ You can either create a branch which you can send to either your own repositorie
 
 For example, this is an edit that I created on practiceBranch1 which I can't see from the main, but I can do a pull request which would merge this branch onto the primary one
 
+Or I could make an edit and automatically create a new branch and start a pull request
